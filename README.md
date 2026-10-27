@@ -127,7 +127,5 @@ One thing I found interesting was how much background network traffic a computer
 
 This project is intended for learning and network troubleshooting. Packet capture should only be performed on networks and systems where you have permission to monitor traffic.
 
-## Author
 
-Harun Mohamed
 
